@@ -1,0 +1,29 @@
+{
+  "name": "angular-sitemap",
+  "version": "0.1.0",
+  "description": "Angular Sitemap intends to generate a sitemap of your AngularJS app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YouriT/angular-sitemap.git"
+  },
+  "keywords": [
+    "angular",
+    "sitemap",
+    "ui-router",
+    "generator"
+  ],
+  "author": "Youri Tolstoy <ytolstoy@gmail.com> (http://disruptivestudio.com/)",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/YouriT/angular-sitemap/issues"
+  },
+  "homepage": "https://github.com/YouriT/angular-sitemap",
+  "dependencies": {
+    "phantom": "^0.7.2",
+    "phantomjs": "^1.9.16"
+  }
+}
